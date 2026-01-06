@@ -12,4 +12,5 @@ A responsive one-page landing page built with HTML and CSS.
 - CSS3
 
 ## Live Demo
-https://dannytek.kesug.com
+- GitHub Pages: https://yourusername.github.io/tech-gear-landing-page
+- External hosting : https://dannytek.kesug.com
